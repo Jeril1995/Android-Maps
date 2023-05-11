@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Project 2, Jeril Johnson Nedumbakaran</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="lat_long_snippet">Lat:%1$.5f,Long:$2$.5</string>
+    <string name="dropped_pin">Dropped Pin</string>
+    <string name="poi">poi</string>
+    <string name="latitude">Latitude is:</string>
+    <string name="longitude">Longitude is:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Jeril Johnson Nedumbakaran</string>
+    <string name="studentNumber">1083779</string>
+    <string name="buttonName">DISPLAY</string>
+</resources>
